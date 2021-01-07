@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uMV3V2w+wHzl1dumrSkQ2OXJWI24lbpt+YJuo+elyRcm+kDoPnIN1m2pipCVxJA8mXEnW+Jinq7ExuEHzOfhkQ==",
+  "success": true,
+  "projectFilePath": "D:\\FirstApp\\FirstApp\\FirstApp\\FirstApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amol.panzade\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\amol.panzade\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\amol.panzade\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
